@@ -1,0 +1,1 @@
+product{productID=1, productName='cake', productPrice=400.0}

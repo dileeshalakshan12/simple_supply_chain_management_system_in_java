@@ -1,0 +1,4 @@
+null,null,dil,jdjd,45545
+Supplier{, companyName='dil', email='jdjd', phoneNumber='45545', address='kdkdk', bankName='kdkd'}
+null,null,dili,mdkddl,04455
+Supplier{, companyName='dili', email='mdkddl', phoneNumber='04455', address='kdkdk', bankName='llf'}

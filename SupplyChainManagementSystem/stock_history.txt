@@ -1,0 +1,2 @@
+stockHistory{rawMaterial=product{productID=1, productName='egg', productPrice=45.0}, quantity=10, Stock date='2024-03-26'}
+stockHistory{rawMaterial=product{productID=1, productName='egg', productPrice=45.0}, quantity=-5, Stock date='2024-03-26'}

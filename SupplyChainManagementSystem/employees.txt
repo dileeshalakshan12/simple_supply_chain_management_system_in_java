@@ -1,0 +1,1 @@
+Employee{employeeId=1, employeeName='sanduni', position='manager', salaryRate=400.0}

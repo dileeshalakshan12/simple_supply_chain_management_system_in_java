@@ -1,0 +1,1 @@
+Order ID: 1, Supplier: Supplier{, companyName='dil', email='jdjd', phoneNumber='45545', address='kdkdk', bankName='kdkd'}, Quantity: 10, Status: PENDING
